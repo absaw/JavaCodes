@@ -1,0 +1,2 @@
+# JavaCodes
+Primitive practice codes
